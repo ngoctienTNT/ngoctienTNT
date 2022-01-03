@@ -129,7 +129,7 @@ func GetBio() Bio {
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=TodoList2021&theme=tokyonight" alt="ngoctienTNT" />
 </a></p>
 
-## Github Contributions 📈
+## <p align="center">Github Contributions 📈</p>
 <br>
 <p align='center'>
 <img src="https://activity-graph.herokuapp.com/graph?username=ngoctienTNT&theme=react-dark&hide_border=true">
@@ -138,7 +138,7 @@ func GetBio() Bio {
 <hr>
 <br>
 
-## Just a snake eating my contributions 🐍
+## <p align="center">Just a snake eating my contributions 🐍</p>
 <p align='center'>
 <img src="https://github.com/ngoctienTNT/ngoctienTNT/blob/output/github-contribution-grid-snake.svg">
 </p>
