@@ -1,4 +1,4 @@
-# Trần Ngọc Tiến
+# <p align="center">Trần Ngọc Tiến</p>
 
 <h2 align="center">About me</h2>
 
