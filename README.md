@@ -6,31 +6,22 @@
 
 <h2 align="center">About me</h2>
 
-```golang
-package main
-
-import (
-	"fmt"
-)
-
-type Bio map[string]string
-
-func main() {
-	for k, v := range GetBio() {
-		fmt.Printf("%+v: %+v\n", k, v)
-	}
-}
-
-func GetBio() Bio {
-	return Bio{
-		"- ⚡ Quick bio:":                    "Chỉ có thành công mới định nghĩa mày là ai!",
-		"- 🔭 I’m currently working on":      "Đang học tập và làm việc tại UIT",
-		"- 🌱 I’m currently learning":        "Dart, Flutter",
-		"- 👯 I’m looking to collaborate on": "Python, Golang and Docker related projects",
-		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about":                  "C, C++, C#, Java, Dart, HTML, JavaScript, Python, SQL",
-		"- 📫 How to reach me:":              "https://github.com/ngoctienTNT",
-	}
+```C#
+namespace TNT
+{
+    class ngoctienTNT
+    {
+        static void Main(string[] args)
+        {
+            string Name = "Trần Ngọc Tiến";
+            string Age = "2002";
+            string Gender = "Male";
+            string Address = "Khánh Hòa, Việt Nam";
+            string University = "Trường Đại học Công nghệ Thông Tin - UIT";
+            string Skills = "C, C++, C#, Java, Dart, Python, HTML, JavaScript";
+            string FamousQuotes = "Chỉ có sự thành công mới định nghĩa mày là ai!";
+        }
+    }
 }
 ```
 
