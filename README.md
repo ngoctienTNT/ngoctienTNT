@@ -36,21 +36,29 @@ func GetBio() Bio {
   <a href="https://www.facebook.com/ngoctien.TNT">
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" height="30" width="30">
   </a>
+	
+  <a href="https://github.com/ngoctienTNT">
+    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" height="30" width="30">
+  </a>
   
+  <a href="https://dev.to/ngoctientnt">
+    <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="DevTo" height="30" width="30">
+  </a>
+	
+  <a href="https://www.linkedin.com/in/ngoctientnt/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" height="30" width="30">
+  </a>
+  
+  <a href="mailto:ngoctienTNT.vn@gmail.com">
+    <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google" height="30" width="30">
+  </a>
+	
   <a href="https://www.instagram.com/ngoctien.tnt/">
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" height="30" width="30">
   </a>
   
   <a href="https://www.tiktok.com/@ngoctien_tnt/">
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tiktok-icon.svg" alt="TikTok" height="30" width="30">
-  </a>
-  
-  <a href="mailto:ngoctienTNT.vn@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google" height="30" width="30">
-  </a>
-  
-  <a href="https://www.linkedin.com/in/ngoctientnt/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" height="30" width="30">
   </a>
   
   <a href="https://www.youtube.com/c/ThienLongTNT">
