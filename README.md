@@ -1,7 +1,7 @@
 # <p align="center">Trần Ngọc Tiến</p>
 
 <p align="center">
-	<img src="https://avatars.githubusercontent.com/u/79617804" alt="TNT">
+	<img src="https://avatars.githubusercontent.com/u/79617804" width = "200" alt="TNT">
 </p>
 
 <h2 align="center">About me</h2>
