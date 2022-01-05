@@ -25,11 +25,11 @@ namespace TNT
 }
 ```
 
-<h2 align="center">You can reach me at :alien:</h2>
+## <p align="center">You can reach me at :alien:</p>
 
 <p align="center">
   <a href="https://www.facebook.com/ngoctien.TNT">
-    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" height="30" width="30" style="margin-right: 500px">
   </a>
 	
   <a href="https://github.com/ngoctienTNT">
@@ -61,7 +61,7 @@ namespace TNT
   </a>
 </p>
 
-<h2 align="center">What I use :alien:</h2>
+## <p align="center">What I use :alien:</p>
 
 <table align="center">
   <tbody>
@@ -108,31 +108,37 @@ namespace TNT
   </tbody>
 </table>
 
-<h4 align="center">Visitor's count :eyes:</h4>
+## <p align="center">Visitor's count :eyes:</p>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{ngoctienTNT}/count.svg" alt="ngoctienTNT :: Visitor's Count" /></p>
 
-<h4 align="center">Top langs :tongue:</h4>
+## <p align="center">GitHub Profile Trophy</p>
+
+<p align='center'>
+<img src="https://github-profile-trophy.vercel.app/?username=ngoctienTNT&theme=tokyonight&row=2&column=4">
+</p>
+
+## <p align="center">Top langs :tongue:</p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngoctienTNT&langs_count=10&theme=tokyonight&layout=compact" alt="ngoctienTNT :: Top Langs" /></p>
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
+## <p align="center">Profile stats :musical_keyboard:</p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ngoctienTNT&show_icons=true&theme=tokyonight" alt="ngoctienTNT :: Profile Stats" /></p>
 
-<h4 align="center">Repository pin 📌</h4>
+## <p align="center">Repository pin 📌</p>
 
 <p align="center">
 	
 <a href="https://github.com/ngoctienTNT/GiveLoveTNT">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=GiveLoveTNT&theme=tokyonight" alt="ngoctienTNT" />
-</a></p>
-
-<p align="center">
+</a>
 	
 <a href="https://github.com/ngoctienTNT/TodoList2021">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=TodoList2021&theme=tokyonight" alt="ngoctienTNT" />
-</a></p>
+</a>
+
+</p>
 
 ## <p align="center">Github Contributions 📈</p>
 <br>
@@ -150,5 +156,7 @@ namespace TNT
 
 <hr>
 <br>
+
+##
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
