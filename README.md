@@ -1,4 +1,4 @@
-# <p align="center">Trần Ngọc Tiến</p>
+# <p align="center">𝓣𝓻𝓪̂̀𝓷 𝓝𝓰𝓸̣𝓬 𝓣𝓲𝓮̂́𝓷</p>
 
 <p align="center">
 	<a href="https://github.com/ngoctienTNT">
@@ -31,7 +31,7 @@ namespace TNT
 
 <p align="center">
   <a href="https://www.facebook.com/ngoctien.TNT">
-    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" height="30" width="30" style="margin-right: 500px">
+    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" height="30" width="30">
   </a>
 	
   <a href="https://github.com/ngoctienTNT">
@@ -68,43 +68,67 @@ namespace TNT
 <table align="center">
   <tbody>
     <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗖</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
+      <td width="20%" align="center">
+	<a href="https://devdocs.io/cpp/">
+		<span>𝗖++</span><br><br><br>
+		<img height="64px" src="https://cdn.worldvectorlogo.com/logos/c.svg">
+	 </a>
       </td>
-      <td width="25%" align="center">
-        <span>𝗖#</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
+      <td width="20%" align="center">
+	 <a href="https://docs.microsoft.com/dotnet/csharp/">
+		<span>𝗖#</span><br><br><br>
+		<img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
+	 </a>
       </td>
-      <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+      <td width="20%" align="center">
+	<a href="https://docs.oracle.com/java/">
+		<span>𝗝𝗮𝘃𝗮</span><br><br><br>
+		<img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+	 </a>
       </td>
-	<td width="25%" align="center">
-        <span>Dart</span><br><br><br>
+	<td width="20%" align="center">
+		<a href="https://dart.dev/guides">
+        <span>𝗗𝗮𝗿𝘁</span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg">
+		</a>
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
+	      <a href="https://docs.python.org/3/">
         <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+	      </a>
       </td>
     </tr>
     <tr valign="top">
-	<td width="25%" align="center">
+	<td width="20%" align="center">
+		<a href="https://code.visualstudio.com/docs">
         <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
+		</a>
       </td>
-	<td width="25%" align="center">
-        <span>Flutter</span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg">
+	<td width="20%" align="center">
+		<a href="https://docs.microsoft.com/visualstudio/ide/?view=vs-2019">
+        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg">
+		</a>
       </td>
-      <td width="25%" align="center">
-        <span>𝗦𝘂𝗯𝗹𝗶𝗺𝗲 𝗧𝗲𝘅𝘁 𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
+      <td width="20%" align="center">
+	      <a href="https://developer.android.com/docs">
+        <span>𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg">
+	      </a>
       </td>
-      <td width="25%" align="center">
+	    <td width="20%" align="center">
+	<a href="https://docs.flutter.dev/">
+		<span>𝗙𝗹𝘂𝘁𝘁𝗲𝗿</span><br><br><br>
+		<img height="64px" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg">
+	</a>
+      </td>
+      <td width="20%" align="center">
+	      <a href="https://git-scm.com/doc">
         <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+	      </a>
       </td>
     </tr>
   </tbody>
@@ -130,8 +154,7 @@ namespace TNT
 
 ## <p align="center">Repository pin 📌</p>
 
-<p align="center">
-	
+<p align="center">	
 <a href="https://github.com/ngoctienTNT/GiveLoveTNT">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=GiveLoveTNT&theme=tokyonight" alt="ngoctienTNT" />
 </a>
@@ -139,7 +162,16 @@ namespace TNT
 <a href="https://github.com/ngoctienTNT/TodoList2021">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=TodoList2021&theme=tokyonight" alt="ngoctienTNT" />
 </a>
+</p>
 
+<p align="center">	
+<a href="https://github.com/ngoctienTNT/ILoveNgocTien" margin="100">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=ILoveNgocTien&theme=tokyonight" alt="ngoctienTNT" />
+</a>
+	
+<a href="https://github.com/ngoctienTNT/ngoctien.TNT">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=ngoctien.TNT&theme=tokyonight" alt="ngoctienTNT" />
+</a>
 </p>
 
 ## <p align="center">Github Contributions 📈</p>
