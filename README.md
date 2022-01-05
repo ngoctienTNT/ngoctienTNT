@@ -27,7 +27,7 @@ namespace TNT
 }
 ```
 
-## <p align="center">You can reach me at :alien:</p>
+## <p align="center">You can reach me at 🌹</p>
 
 <p align="center">
   <a href="https://www.facebook.com/ngoctien.TNT">
@@ -138,7 +138,7 @@ namespace TNT
 
 <p align="center"><img src="https://profile-counter.glitch.me/{ngoctienTNT}/count.svg" alt="ngoctienTNT :: Visitor's Count" /></p>
 
-## <p align="center">GitHub Profile Trophy</p>
+## <p align="center">GitHub Profile Trophy 🏆</p>
 
 <p align='center'>
 <img src="https://github-profile-trophy.vercel.app/?username=ngoctienTNT&theme=tokyonight&row=2&column=4">
